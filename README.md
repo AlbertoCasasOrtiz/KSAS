@@ -28,9 +28,9 @@ This software is licensed under the [AGPL](https://choosealicense.com/licenses/a
 ## Cite
 *Casas-Ortiz, A., Echeverria, J. & Santos, O.C.* (2023). [Intelligent Systems for Psychomotor Learning: A Systematic Review and Two Cases of Study. In Handbook of Artificial Intelligence in Education](https://www.elgaronline.com/edcollchap/book/9781800375413/book-part-9781800375413-30.xml). Edward Elgar Publishing: Cheltenham, Inglaterra, pp. 390–421, ISBN 9781800375413.
 
-*Casas-Ortiz, A. & Santos, O. C.* (2021). [KSAS: A Mobile App with Neural Networks to Guide the Learning of Motor Skills.](https://caepia20-21.uma.es/inicio_files/caepia20-21-actas.pdf) In Proceedings of Conference of the Spanish Association of Artificial Intelligence (CAEPIA 20/21) (pp. 997-1000)
+*Casas-Ortiz, A. & Santos, O. C.* (2021). [KSAS: A Mobile App with Neural Networks to Guide the Learning of Motor Skills.](https://caepia20-21.uma.es/inicio_files/caepia20-21-actas.pdf) in Actas de la XIX Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA 20/21) (pp. 997-1000)
 
-*Casas-Ortiz, A. & Santos, O. C.* (2021). [KSAS: An AI Application to learn Martial Arts Movements in on-line Settings.](https://aied2021.science.uu.nl/file/KSAS-An-AI-Application-to-learn-Martial-Arts-Movements-in-on-line-Settings.pdf) In 22nd International Conference on Artificial Intelligence in Education (AIED 2021) (pp. 1-4).
+*Casas-Ortiz, A. & Santos, O. C.* (2021). [KSAS: An AI Application to learn Martial Arts Movements in on-line Settings.](https://aied2021.science.uu.nl/file/KSAS-An-AI-Application-to-learn-Martial-Arts-Movements-in-on-line-Settings.pdf) Interactive Events at 22nd International Conference on Artificial Intelligence in Education (AIED 2021) (pp. 1-4).
 
 
 
